@@ -38,4 +38,9 @@ private ArrayList<SparseArrayEntry> entries;
 		return actualValue;
 	}
 	
+	public void removeColumn(int col)
+	{
+		
+	}
+	
 }

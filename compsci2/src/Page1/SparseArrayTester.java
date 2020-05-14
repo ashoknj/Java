@@ -8,7 +8,7 @@ public class SparseArrayTester {
 		SparseArrayEntry sae=new SparseArrayEntry(0,0,10);
 		SparseArray sa=new SparseArray();
 		sa.addItem(sae);
-		System.out.println(sa.getValueAt(1,1));
+		System.out.println(sa.getValueAt(0,0));
 				
 	}
 
